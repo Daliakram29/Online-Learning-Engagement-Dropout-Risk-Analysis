@@ -22,3 +22,8 @@ Kaggle – Online Learning Engagement and Dropout Risk Dataset
 - Device type shows notable differences in engagement patterns
 - Some course categories carry significantly higher dropout rates
 - Login frequency and time spent are among the strongest engagement indicators
+
+# Power BI Dashboard
+Created an interactive 2-page dashboard to visualize engagement patterns:
+- Page 1: Executive summary with KPIs, dropout distribution, and engagement heatmaps
+- Page 2: Detailed metrics by course category with interactive filters
